@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**felixfsio/felixfsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Faseeh — a student software developer passionate about learning, building, and experimenting with new ideas through code.
 
-Here are some ideas to get you started:
+## 🎮 Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[The Stellar Expedition](https://felixfs.itch.io/the-stellar-expedition)**  
+  A Godot game where you drift through space to reach your station.
+
+- **[Apple Jump](https://felixfs.itch.io/apple-jump)**  
+  A Unity game where you jump over apples on your way to space.
+
+## 🌐 Some Websites
+
+- **[Next.js Example](https://github.com/felixfsio/nextjs-example)**  
+  An all-in-one web application built with Next.js.
+
+- **[Shoop](https://github.com/felixfsarchive/shoop)**  
+  A sample project built with HTML, CSS, JavaScript, and Bootstrap.
+
+## 🚀 More Projects
+
+Explore more of my work on my **[GitHub profile](https://github.com/felixfsio/)**.
