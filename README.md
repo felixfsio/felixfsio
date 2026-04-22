@@ -12,7 +12,7 @@ I'm Faseeh — a student software developer passionate about learning, building,
 
 ## 🌐 Some Websites
 
-- **[Next.js Example](https://github.com/felixfsio/nextjs-example)**  
+- **[Next.js Example](https://nextjs-example-six-nu.vercel.app/)**  
   An all-in-one web application built with Next.js.
 
 - **[Shoop](https://github.com/felixfsarchive/shoop)**  
