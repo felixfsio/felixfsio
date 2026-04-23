@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Faseeh — a student software developer passionate about learning, building, and experimenting with new ideas through code.
+I’m Faseeh. I’m currently learning full-stack web development with Next.js.
 
 ## 🎮 Games
 
