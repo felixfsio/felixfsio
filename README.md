@@ -2,7 +2,7 @@
 
 I’m Faseeh. I’m currently learning full-stack web development with Next.js.
 
-## 🎮 Games
+## 🎮 My games
 
 - **[The Stellar Expedition](https://felixfs.itch.io/the-stellar-expedition)**  
   A Godot game where you drift through space to reach your station.
@@ -10,14 +10,6 @@ I’m Faseeh. I’m currently learning full-stack web development with Next.js.
 - **[Apple Jump](https://felixfs.itch.io/apple-jump)**  
   A Unity game where you jump over apples on your way to space.
 
-## 🌐 Some Websites
+## 🚀 More projects
 
-- **[Next.js Example](https://nextjs-example-six-nu.vercel.app/)**  
-  An all-in-one web application built with Next.js.
-
-- **[Shoop](https://github.com/felixfsarchive/shoop)**  
-  A sample project built with HTML, CSS, JavaScript, and Bootstrap.
-
-## 🚀 More Projects
-
-Explore more of my work on my **[GitHub profile](https://github.com/felixfsio/)**.
+Explore more of my work on my [GitHub profile](https://github.com/felixfsio/).
